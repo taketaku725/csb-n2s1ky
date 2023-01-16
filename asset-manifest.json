@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://taketaku725.github.io/csb-n2s1ky/static/css/main.cccbbb7c.chunk.css",
+    "main.js": "https://taketaku725.github.io/csb-n2s1ky/static/js/main.a3cda9d7.chunk.js",
+    "main.js.map": "https://taketaku725.github.io/csb-n2s1ky/static/js/main.a3cda9d7.chunk.js.map",
+    "runtime-main.js": "https://taketaku725.github.io/csb-n2s1ky/static/js/runtime-main.daa1ea22.js",
+    "runtime-main.js.map": "https://taketaku725.github.io/csb-n2s1ky/static/js/runtime-main.daa1ea22.js.map",
+    "static/js/2.565323b3.chunk.js": "https://taketaku725.github.io/csb-n2s1ky/static/js/2.565323b3.chunk.js",
+    "static/js/2.565323b3.chunk.js.map": "https://taketaku725.github.io/csb-n2s1ky/static/js/2.565323b3.chunk.js.map",
+    "index.html": "https://taketaku725.github.io/csb-n2s1ky/index.html",
+    "static/css/main.cccbbb7c.chunk.css.map": "https://taketaku725.github.io/csb-n2s1ky/static/css/main.cccbbb7c.chunk.css.map",
+    "static/js/2.565323b3.chunk.js.LICENSE.txt": "https://taketaku725.github.io/csb-n2s1ky/static/js/2.565323b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa1ea22.js",
+    "static/js/2.565323b3.chunk.js",
+    "static/css/main.cccbbb7c.chunk.css",
+    "static/js/main.a3cda9d7.chunk.js"
+  ]
+}
